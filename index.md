@@ -10,17 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# CMI iBoard Dashboard
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is is my first project in Capgemini.
 
-## Header 2
+## PF Indicator
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This is my Second project in Capgemini.
+> Project completed with the SLB client
 
-### Header 3
+### New Energy
+
+This is my Third project in Capgemini.
+> This is the project currently I am working on.
 
 ```js
 // Javascript code with syntax highlighting.
