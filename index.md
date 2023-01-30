@@ -12,11 +12,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # CMI iBoard Dashboard
 
-This is is my first project in Capgemini.
+This was my first project in Capgemini.
 
 ## PF Indicator
 
-This is my Second project in Capgemini.
+This was my Second project in Capgemini.
 > Project completed with the SLB client
 
 ### New Energy
